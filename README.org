@@ -26,6 +26,6 @@
 
 </div>
 
-<h1 align="center">Appunti della laurea triennale - 1° anno</h1>
+<h1 align="center">Appunti della laurea triennale in Informatica - 1° anno</h1>
 <h2 align="center">Federico II</h2>
 #+END_HTML
